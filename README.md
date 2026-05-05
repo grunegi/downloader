@@ -66,3 +66,17 @@ https://github.com/nikzad-avasam/youtube-dl
 
 در صورت مفید بودن این ابزار از ما حمایت کنید تا بتوانیم ابزارهای مشابه در شرایط خاص را بسازیم.
 
+
+---
+
+## فایل های دانلود شده در گیتهاب شما :
+
+1. [rer_uk=4402067639621](https://github.com/grunegi/downloader/tree/main/downloads/rer_uk=4402067639621)
+
+2. [rer_uk=4402067639621_nova](https://github.com/grunegi/downloader/tree/main/downloads/rer_uk=4402067639621_nova)
+
+3. [terabox](https://github.com/grunegi/downloader/tree/main/downloads/terabox)
+
+4. [webmaster](https://github.com/grunegi/downloader/tree/main/downloads/webmaster)
+
+---
